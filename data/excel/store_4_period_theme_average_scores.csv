@@ -1,0 +1,35 @@
+﻿store_name,time_period,theme,avg_weighted_score,count
+Store4,1-3 Years Ago,Ease of locating items,1.7,272
+Store4,1-3 Years Ago,Other,1.64,326
+Store4,1-3 Years Ago,Staff Behaviour,1.51,187
+Store4,1-3 Years Ago,Cleanliness,1.44,125
+Store4,1-3 Years Ago,Parking/Location,1.2,1
+Store4,1-3 Years Ago,Parking,1.17,3
+Store4,1-3 Years Ago,Quality of Products,1,1
+Store4,1-3 Years Ago,Stock Availability,1,2
+Store4,1-3 Years Ago,Waiting Time,0.97,135
+Store4,1-3 Years Ago,Prices,0.8,1
+Store4,1-3 Years Ago,Price,0.67,3
+Store4,1-3 Years Ago,Price/Value,0.6,2
+Store4,1-3 Years Ago,Store Experience,0.6,1
+Store4,1-3 Years Ago,Value for money,0.6,1
+Store4,Past 3 Months,Other,1.8,22
+Store4,Past 3 Months,Ease of locating items,1.47,17
+Store4,Past 3 Months,Parking,1.2,1
+Store4,Past 3 Months,Staff Behaviour,0.99,14
+Store4,Past 3 Months,Cleanliness,0.93,9
+Store4,Past 3 Months,Waiting Time,0.84,9
+Store4,Past 3-12 Months,Ease of locating items,1.56,53
+Store4,Past 3-12 Months,Other,1.48,63
+Store4,Past 3-12 Months,Cleanliness,1.31,24
+Store4,Past 3-12 Months,Staff Behaviour,1.24,43
+Store4,Past 3-12 Months,Parking,1.2,1
+Store4,Past 3-12 Months,Waiting Time,1.03,33
+Store4,Past 3-12 Months,Price,1,1
+Store4,Past 3-12 Months,Food Quality,0.55,2
+Store4,Past Month,Staff Behaviour,1.98,5
+Store4,Past Month,Other,1.91,8
+Store4,Past Month,Ease of locating items,1.59,8
+Store4,Past Month,Cleanliness,1.07,3
+Store4,Past Month,Waiting Time,0.86,5
+Store4,Past Month,Customer Service,0.3,1

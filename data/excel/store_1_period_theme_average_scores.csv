@@ -1,0 +1,24 @@
+﻿store_name,time_period,theme,avg_weighted_score,count
+Store1,1-3 Years Ago,Other,1.65,179
+Store1,1-3 Years Ago,Ease of locating items,1.61,175
+Store1,1-3 Years Ago,Staff Behaviour,1.52,155
+Store1,1-3 Years Ago,Cleanliness,1.48,72
+Store1,1-3 Years Ago,Price,1,1
+Store1,1-3 Years Ago,Price/Value,1,1
+Store1,1-3 Years Ago,Waiting Time,0.97,82
+Store1,Past 3 Months,Ease of locating items,1.33,7
+Store1,Past 3 Months,Cleanliness,0.9,5
+Store1,Past 3 Months,Other,0.9,7
+Store1,Past 3 Months,Staff Behaviour,0.9,9
+Store1,Past 3 Months,Waiting Time,0.78,6
+Store1,Past 3-12 Months,Ease of locating items,1.73,21
+Store1,Past 3-12 Months,Other,1.58,26
+Store1,Past 3-12 Months,Cleanliness,1.23,13
+Store1,Past 3-12 Months,Staff Behaviour,1.08,27
+Store1,Past 3-12 Months,Parking,0.8,1
+Store1,Past 3-12 Months,Waiting Time,0.79,17
+Store1,Past 3-12 Months,Prices,0.6,1
+Store1,Past Month,Ease of locating items,2,2
+Store1,Past Month,Waiting Time,1.25,2
+Store1,Past Month,Cleanliness,1.2,1
+Store1,Past Month,Staff Behaviour,0.75,2
